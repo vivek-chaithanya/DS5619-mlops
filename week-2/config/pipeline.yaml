@@ -1,0 +1,8 @@
+# Copy this file to pipeline.yaml (and a second copy for the JSON-format run)
+# and fill in real values. pipeline.py should need zero code edits regardless
+# of what you put here.
+
+input_path: data/v1/transactions.csv
+input_format: csv          # csv | json
+high_value_threshold: 5000
+output_path: data/v1/report.json

@@ -1,0 +1,5002 @@
+[
+  {
+    "transaction_id": "txn_0000000",
+    "card_id": "card_00717",
+    "timestamp": "2026-01-20T12:03:42Z",
+    "amount": 18.21,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000001",
+    "card_id": "card_00809",
+    "timestamp": "2026-01-09T05:36:34Z",
+    "amount": 112.62,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000002",
+    "card_id": "card_00199",
+    "timestamp": "2026-01-04T16:19:47Z",
+    "amount": 243.83,
+    "merchant_category": "grocery",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000003",
+    "card_id": "card_00092",
+    "timestamp": "2026-01-06T20:23:53Z",
+    "amount": 30.96,
+    "merchant_category": "restaurant",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000004",
+    "card_id": "card_00420",
+    "timestamp": "2026-01-28T08:10:11Z",
+    "amount": 10.42,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000005",
+    "card_id": "card_00297",
+    "timestamp": "2026-01-04T05:52:22Z",
+    "amount": 84.73,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000006",
+    "card_id": "card_00899",
+    "timestamp": "2026-01-01T12:39:22Z",
+    "amount": 63.56,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000007",
+    "card_id": "card_00217",
+    "timestamp": "2026-01-14T20:28:41Z",
+    "amount": 176.34,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000008",
+    "card_id": "card_00335",
+    "timestamp": "2026-01-30T10:00:47Z",
+    "amount": 44.03,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000009",
+    "card_id": "card_00542",
+    "timestamp": "2026-01-26T03:02:58Z",
+    "amount": 33.65,
+    "merchant_category": "online_retail",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000010",
+    "card_id": "card_00279",
+    "timestamp": "2026-01-03T14:19:42Z",
+    "amount": 41.07,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000011",
+    "card_id": "card_00475",
+    "timestamp": "2026-01-30T05:44:47Z",
+    "amount": 38.91,
+    "merchant_category": "online_retail",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000012",
+    "card_id": "card_00863",
+    "timestamp": "2026-01-13T03:41:10Z",
+    "amount": 171.33,
+    "merchant_category": "travel",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000013",
+    "card_id": "card_00068",
+    "timestamp": "2026-01-13T15:52:49Z",
+    "amount": 31.68,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000014",
+    "card_id": "card_00644",
+    "timestamp": "2026-01-15T18:24:23Z",
+    "amount": 19.21,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000015",
+    "card_id": "card_00296",
+    "timestamp": "2026-01-10T12:29:31Z",
+    "amount": 501.66,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000016",
+    "card_id": "card_00070",
+    "timestamp": "2026-01-01T03:58:02Z",
+    "amount": 20.72,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000017",
+    "card_id": "card_00726",
+    "timestamp": "2026-01-28T23:34:16Z",
+    "amount": 1113.56,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000018",
+    "card_id": "card_00491",
+    "timestamp": "2026-01-03T17:02:10Z",
+    "amount": 31.57,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000019",
+    "card_id": "card_00613",
+    "timestamp": "2026-01-08T01:45:46Z",
+    "amount": 61.14,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000020",
+    "card_id": "card_00490",
+    "timestamp": "2026-01-18T16:50:26Z",
+    "amount": 17.15,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000021",
+    "card_id": "card_00289",
+    "timestamp": "2026-01-19T04:41:33Z",
+    "amount": 75.34,
+    "merchant_category": "travel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000022",
+    "card_id": "card_00439",
+    "timestamp": "2026-01-03T07:12:19Z",
+    "amount": 34.13,
+    "merchant_category": "travel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000023",
+    "card_id": "card_00076",
+    "timestamp": "2026-01-05T19:05:14Z",
+    "amount": 26.99,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000024",
+    "card_id": "card_00480",
+    "timestamp": "2026-01-22T23:14:26Z",
+    "amount": 10.26,
+    "merchant_category": "utilities",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000025",
+    "card_id": "card_00255",
+    "timestamp": "2026-01-23T15:56:54Z",
+    "amount": 152.54,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000026",
+    "card_id": "card_00229",
+    "timestamp": "2026-01-22T04:46:32Z",
+    "amount": 902.51,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000027",
+    "card_id": "card_00258",
+    "timestamp": "2026-01-19T01:56:08Z",
+    "amount": 22.07,
+    "merchant_category": "entertainment",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000028",
+    "card_id": "card_00133",
+    "timestamp": "2026-01-23T18:04:07Z",
+    "amount": 9.05,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000029",
+    "card_id": "card_00187",
+    "timestamp": "2026-01-28T15:18:23Z",
+    "amount": 348.32,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000030",
+    "card_id": "card_00839",
+    "timestamp": "2026-01-16T02:00:58Z",
+    "amount": 17.82,
+    "merchant_category": "travel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000031",
+    "card_id": "card_00422",
+    "timestamp": "2026-01-10T07:24:59Z",
+    "amount": 21.57,
+    "merchant_category": "grocery",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000032",
+    "card_id": "card_00378",
+    "timestamp": "2026-01-25T19:48:18Z",
+    "amount": 35.85,
+    "merchant_category": "grocery",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000033",
+    "card_id": "card_00369",
+    "timestamp": "2026-01-26T11:41:55Z",
+    "amount": 87.43,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000034",
+    "card_id": "card_00621",
+    "timestamp": "2026-01-11T23:26:12Z",
+    "amount": 95.2,
+    "merchant_category": "atm_withdrawal",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000035",
+    "card_id": "card_00225",
+    "timestamp": "2026-01-06T19:16:14Z",
+    "amount": 114.15,
+    "merchant_category": "pharmacy",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000036",
+    "card_id": "card_00773",
+    "timestamp": "2026-01-26T04:00:21Z",
+    "amount": 55.0,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000037",
+    "card_id": "card_00101",
+    "timestamp": "2026-01-06T19:55:37Z",
+    "amount": 96.78,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000038",
+    "card_id": "card_00352",
+    "timestamp": "2026-01-08T06:36:16Z",
+    "amount": 74.31,
+    "merchant_category": "entertainment",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000039",
+    "card_id": "card_00852",
+    "timestamp": "2026-01-26T12:13:20Z",
+    "amount": 141.95,
+    "merchant_category": "electronics",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000040",
+    "card_id": "card_00087",
+    "timestamp": "2026-01-21T01:06:42Z",
+    "amount": 266.46,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000041",
+    "card_id": "card_00112",
+    "timestamp": "2026-01-06T18:08:56Z",
+    "amount": 30.79,
+    "merchant_category": "entertainment",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000042",
+    "card_id": "card_00889",
+    "timestamp": "2026-01-22T03:37:15Z",
+    "amount": 148.54,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000043",
+    "card_id": "card_00567",
+    "timestamp": "2026-01-19T03:25:22Z",
+    "amount": 49.28,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000044",
+    "card_id": "card_00741",
+    "timestamp": "2026-01-03T02:56:56Z",
+    "amount": 172.54,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000045",
+    "card_id": "card_00893",
+    "timestamp": "2026-01-15T17:23:26Z",
+    "amount": 41.8,
+    "merchant_category": "grocery",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000046",
+    "card_id": "card_00690",
+    "timestamp": "2026-01-14T10:25:48Z",
+    "amount": 22.16,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000047",
+    "card_id": "card_00004",
+    "timestamp": "2026-01-14T15:44:56Z",
+    "amount": 229.22,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000048",
+    "card_id": "card_00026",
+    "timestamp": "2026-01-12T07:27:57Z",
+    "amount": 108.34,
+    "merchant_category": "atm_withdrawal",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000049",
+    "card_id": "card_00732",
+    "timestamp": "2026-01-16T11:52:44Z",
+    "amount": 47.38,
+    "merchant_category": "fuel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000050",
+    "card_id": "card_00142",
+    "timestamp": "2026-01-19T15:47:17Z",
+    "amount": 55.77,
+    "merchant_category": "travel",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000051",
+    "card_id": "card_00224",
+    "timestamp": "2026-01-17T17:40:29Z",
+    "amount": 45.56,
+    "merchant_category": "pharmacy",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000052",
+    "card_id": "card_00647",
+    "timestamp": "2026-01-15T12:23:59Z",
+    "amount": 36.36,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000053",
+    "card_id": "card_00197",
+    "timestamp": "2026-01-16T03:49:36Z",
+    "amount": 165.33,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000054",
+    "card_id": "card_00823",
+    "timestamp": "2026-01-14T07:34:39Z",
+    "amount": 384.61,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000055",
+    "card_id": "card_00232",
+    "timestamp": "2026-01-16T19:09:50Z",
+    "amount": 5.88,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000056",
+    "card_id": "card_00570",
+    "timestamp": "2026-01-09T17:43:50Z",
+    "amount": 104.36,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000057",
+    "card_id": "card_00304",
+    "timestamp": "2026-01-02T03:36:43Z",
+    "amount": 183.34,
+    "merchant_category": "fuel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000058",
+    "card_id": "card_00876",
+    "timestamp": "2026-01-12T23:14:38Z",
+    "amount": 38.96,
+    "merchant_category": "utilities",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000059",
+    "card_id": "card_00605",
+    "timestamp": "2026-01-20T18:01:52Z",
+    "amount": 132.7,
+    "merchant_category": "entertainment",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000060",
+    "card_id": "card_00489",
+    "timestamp": "2026-01-07T02:21:36Z",
+    "amount": 660.89,
+    "merchant_category": "restaurant",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000061",
+    "card_id": "card_00650",
+    "timestamp": "2026-01-18T23:42:28Z",
+    "amount": 57.92,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000062",
+    "card_id": "card_00877",
+    "timestamp": "2026-01-14T09:37:55Z",
+    "amount": 44.2,
+    "merchant_category": "atm_withdrawal",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000063",
+    "card_id": "card_00836",
+    "timestamp": "2026-01-22T19:24:17Z",
+    "amount": 76.55,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000064",
+    "card_id": "card_00659",
+    "timestamp": "2026-01-20T07:57:15Z",
+    "amount": 11.12,
+    "merchant_category": "entertainment",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000065",
+    "card_id": "card_00521",
+    "timestamp": "2026-01-14T18:37:29Z",
+    "amount": 206.54,
+    "merchant_category": "utilities",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000066",
+    "card_id": "card_00033",
+    "timestamp": "2026-01-01T20:22:53Z",
+    "amount": 43.22,
+    "merchant_category": "atm_withdrawal",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000067",
+    "card_id": "card_00539",
+    "timestamp": "2026-01-22T13:20:02Z",
+    "amount": 31.6,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000068",
+    "card_id": "card_00382",
+    "timestamp": "2026-01-03T00:16:35Z",
+    "amount": 158.82,
+    "merchant_category": "electronics",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000069",
+    "card_id": "card_00470",
+    "timestamp": "2026-01-23T11:49:54Z",
+    "amount": 112.13,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000070",
+    "card_id": "card_00761",
+    "timestamp": "2026-01-06T16:12:37Z",
+    "amount": 569.43,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000071",
+    "card_id": "card_00190",
+    "timestamp": "2026-01-10T10:14:26Z",
+    "amount": 416.03,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000072",
+    "card_id": "card_00264",
+    "timestamp": "2026-01-13T17:03:26Z",
+    "amount": 348.63,
+    "merchant_category": "pharmacy",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000073",
+    "card_id": "card_00509",
+    "timestamp": "2026-01-02T14:49:57Z",
+    "amount": 351.66,
+    "merchant_category": "travel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000074",
+    "card_id": "card_00841",
+    "timestamp": "2026-01-21T05:39:25Z",
+    "amount": 11.32,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000075",
+    "card_id": "card_00149",
+    "timestamp": "2026-01-02T09:19:41Z",
+    "amount": 209.98,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000076",
+    "card_id": "card_00262",
+    "timestamp": "2026-01-29T13:47:23Z",
+    "amount": 16.3,
+    "merchant_category": "grocery",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000077",
+    "card_id": "card_00290",
+    "timestamp": "2026-01-11T04:32:59Z",
+    "amount": 98.6,
+    "merchant_category": "restaurant",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000078",
+    "card_id": "card_00167",
+    "timestamp": "2026-01-08T00:21:19Z",
+    "amount": 82.52,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000079",
+    "card_id": "card_00246",
+    "timestamp": "2026-01-04T08:10:52Z",
+    "amount": 16.96,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000080",
+    "card_id": "card_00830",
+    "timestamp": "2026-01-26T12:32:19Z",
+    "amount": 44.2,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000081",
+    "card_id": "card_00469",
+    "timestamp": "2026-01-02T22:03:25Z",
+    "amount": 96.67,
+    "merchant_category": "restaurant",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000082",
+    "card_id": "card_00190",
+    "timestamp": "2026-01-06T05:55:33Z",
+    "amount": 190.3,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000083",
+    "card_id": "card_00686",
+    "timestamp": "2026-01-06T22:09:26Z",
+    "amount": 246.18,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000084",
+    "card_id": "card_00060",
+    "timestamp": "2026-01-16T18:06:23Z",
+    "amount": 135.38,
+    "merchant_category": "utilities",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000085",
+    "card_id": "card_00438",
+    "timestamp": "2026-01-28T13:09:07Z",
+    "amount": 236.53,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000086",
+    "card_id": "card_00877",
+    "timestamp": "2026-01-18T15:16:13Z",
+    "amount": 32.21,
+    "merchant_category": "atm_withdrawal",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000087",
+    "card_id": "card_00380",
+    "timestamp": "2026-01-22T00:18:37Z",
+    "amount": 68.13,
+    "merchant_category": "entertainment",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000088",
+    "card_id": "card_00878",
+    "timestamp": "2026-01-25T16:30:13Z",
+    "amount": 82.57,
+    "merchant_category": "restaurant",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000089",
+    "card_id": "card_00027",
+    "timestamp": "2026-01-22T04:20:00Z",
+    "amount": 229.79,
+    "merchant_category": "travel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000090",
+    "card_id": "card_00470",
+    "timestamp": "2026-01-16T09:45:21Z",
+    "amount": 791.2,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000091",
+    "card_id": "card_00492",
+    "timestamp": "2026-01-25T20:05:44Z",
+    "amount": 724.79,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000092",
+    "card_id": "card_00107",
+    "timestamp": "2026-01-15T18:13:34Z",
+    "amount": 113.08,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000093",
+    "card_id": "card_00524",
+    "timestamp": "2026-01-16T15:11:11Z",
+    "amount": 264.96,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000094",
+    "card_id": "card_00219",
+    "timestamp": "2026-01-05T04:36:31Z",
+    "amount": 197.97,
+    "merchant_category": "grocery",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000095",
+    "card_id": "card_00793",
+    "timestamp": "2026-01-23T17:48:06Z",
+    "amount": 155.38,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000096",
+    "card_id": "card_00470",
+    "timestamp": "2026-01-20T13:09:34Z",
+    "amount": 17.27,
+    "merchant_category": "atm_withdrawal",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000097",
+    "card_id": "card_00471",
+    "timestamp": "2026-01-29T13:44:53Z",
+    "amount": 65.16,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000098",
+    "card_id": "card_00656",
+    "timestamp": "2026-01-03T11:23:03Z",
+    "amount": 46.65,
+    "merchant_category": "restaurant",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000099",
+    "card_id": "card_00208",
+    "timestamp": "2026-01-05T10:44:48Z",
+    "amount": 171.86,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000100",
+    "card_id": "card_00617",
+    "timestamp": "2026-01-21T14:40:42Z",
+    "amount": 102.33,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000101",
+    "card_id": "card_00442",
+    "timestamp": "2026-01-17T02:55:09Z",
+    "amount": 121.95,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000102",
+    "card_id": "card_00459",
+    "timestamp": "2026-01-23T22:01:01Z",
+    "amount": 22.59,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000103",
+    "card_id": "card_00466",
+    "timestamp": "2026-01-06T15:51:40Z",
+    "amount": 23.02,
+    "merchant_category": "fuel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000104",
+    "card_id": "card_00192",
+    "timestamp": "2026-01-14T00:10:31Z",
+    "amount": 1036.56,
+    "merchant_category": "travel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000105",
+    "card_id": "card_00153",
+    "timestamp": "2026-01-20T10:53:17Z",
+    "amount": 57.97,
+    "merchant_category": "grocery",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000106",
+    "card_id": "card_00523",
+    "timestamp": "2026-01-22T06:21:26Z",
+    "amount": 15.68,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000107",
+    "card_id": "card_00097",
+    "timestamp": "2026-01-29T02:03:16Z",
+    "amount": 10.89,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000108",
+    "card_id": "card_00841",
+    "timestamp": "2026-01-14T23:34:12Z",
+    "amount": 18.06,
+    "merchant_category": "travel",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000109",
+    "card_id": "card_00264",
+    "timestamp": "2026-01-16T00:11:38Z",
+    "amount": 9.7,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000110",
+    "card_id": "card_00744",
+    "timestamp": "2026-01-25T10:42:44Z",
+    "amount": 988.39,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000111",
+    "card_id": "card_00092",
+    "timestamp": "2026-01-25T04:52:29Z",
+    "amount": 138.72,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000112",
+    "card_id": "card_00817",
+    "timestamp": "2026-01-09T04:03:49Z",
+    "amount": 117.15,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000113",
+    "card_id": "card_00327",
+    "timestamp": "2026-01-22T11:28:16Z",
+    "amount": 13.38,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000114",
+    "card_id": "card_00168",
+    "timestamp": "2026-01-12T23:57:22Z",
+    "amount": 498.69,
+    "merchant_category": "online_retail",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000115",
+    "card_id": "card_00866",
+    "timestamp": "2026-01-19T06:38:07Z",
+    "amount": 30.83,
+    "merchant_category": "online_retail",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000116",
+    "card_id": "card_00152",
+    "timestamp": "2026-01-14T09:06:30Z",
+    "amount": 89.66,
+    "merchant_category": "utilities",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000117",
+    "card_id": "card_00126",
+    "timestamp": "2026-01-22T03:16:28Z",
+    "amount": 126.74,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000118",
+    "card_id": "card_00568",
+    "timestamp": "2026-01-01T09:00:12Z",
+    "amount": 72.7,
+    "merchant_category": "atm_withdrawal",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000119",
+    "card_id": "card_00246",
+    "timestamp": "2026-01-07T14:51:14Z",
+    "amount": 300.68,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000120",
+    "card_id": "card_00124",
+    "timestamp": "2026-01-25T08:35:46Z",
+    "amount": 30.35,
+    "merchant_category": "pharmacy",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000121",
+    "card_id": "card_00296",
+    "timestamp": "2026-01-02T10:39:09Z",
+    "amount": 527.16,
+    "merchant_category": "electronics",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000122",
+    "card_id": "card_00745",
+    "timestamp": "2026-01-21T08:04:24Z",
+    "amount": 120.7,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000123",
+    "card_id": "card_00084",
+    "timestamp": "2026-01-21T16:06:27Z",
+    "amount": 333.83,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000124",
+    "card_id": "card_00641",
+    "timestamp": "2026-01-19T19:23:13Z",
+    "amount": 42.37,
+    "merchant_category": "utilities",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000125",
+    "card_id": "card_00894",
+    "timestamp": "2026-01-07T00:46:23Z",
+    "amount": 63.88,
+    "merchant_category": "entertainment",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000126",
+    "card_id": "card_00746",
+    "timestamp": "2026-01-30T17:22:50Z",
+    "amount": 13.73,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000127",
+    "card_id": "card_00518",
+    "timestamp": "2026-01-27T19:42:38Z",
+    "amount": 36.72,
+    "merchant_category": "electronics",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000128",
+    "card_id": "card_00360",
+    "timestamp": "2026-01-08T11:45:28Z",
+    "amount": 17.21,
+    "merchant_category": "travel",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000129",
+    "card_id": "card_00712",
+    "timestamp": "2026-01-25T06:59:52Z",
+    "amount": 13.81,
+    "merchant_category": "restaurant",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000130",
+    "card_id": "card_00386",
+    "timestamp": "2026-01-05T17:32:39Z",
+    "amount": 120.68,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000131",
+    "card_id": "card_00794",
+    "timestamp": "2026-01-30T13:59:03Z",
+    "amount": 6.48,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000132",
+    "card_id": "card_00557",
+    "timestamp": "2026-01-15T05:19:25Z",
+    "amount": 61.76,
+    "merchant_category": "grocery",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000133",
+    "card_id": "card_00539",
+    "timestamp": "2026-01-08T01:50:23Z",
+    "amount": 10.3,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000134",
+    "card_id": "card_00772",
+    "timestamp": "2026-01-06T00:13:49Z",
+    "amount": 12.89,
+    "merchant_category": "electronics",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000135",
+    "card_id": "card_00429",
+    "timestamp": "2026-01-28T20:58:54Z",
+    "amount": 284.13,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000136",
+    "card_id": "card_00780",
+    "timestamp": "2026-01-10T16:22:13Z",
+    "amount": 175.84,
+    "merchant_category": "entertainment",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000137",
+    "card_id": "card_00810",
+    "timestamp": "2026-01-20T03:12:31Z",
+    "amount": 219.18,
+    "merchant_category": "pharmacy",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000138",
+    "card_id": "card_00018",
+    "timestamp": "2026-01-29T08:05:35Z",
+    "amount": 159.13,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000139",
+    "card_id": "card_00301",
+    "timestamp": "2026-01-21T14:34:27Z",
+    "amount": 28.49,
+    "merchant_category": "atm_withdrawal",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000140",
+    "card_id": "card_00006",
+    "timestamp": "2026-01-22T10:48:57Z",
+    "amount": 117.86,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000141",
+    "card_id": "card_00056",
+    "timestamp": "2026-01-25T13:25:00Z",
+    "amount": 48.42,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000142",
+    "card_id": "card_00326",
+    "timestamp": "2026-01-11T12:09:55Z",
+    "amount": 197.36,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000143",
+    "card_id": "card_00871",
+    "timestamp": "2026-01-03T05:02:58Z",
+    "amount": 631.55,
+    "merchant_category": "pharmacy",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000144",
+    "card_id": "card_00816",
+    "timestamp": "2026-01-08T23:56:16Z",
+    "amount": 77.6,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000145",
+    "card_id": "card_00630",
+    "timestamp": "2026-01-02T18:45:39Z",
+    "amount": 122.99,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000146",
+    "card_id": "card_00441",
+    "timestamp": "2026-01-02T09:27:14Z",
+    "amount": 244.9,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000147",
+    "card_id": "card_00757",
+    "timestamp": "2026-01-08T17:12:40Z",
+    "amount": 47.16,
+    "merchant_category": "entertainment",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000148",
+    "card_id": "card_00692",
+    "timestamp": "2026-01-02T16:45:51Z",
+    "amount": 57.49,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000149",
+    "card_id": "card_00407",
+    "timestamp": "2026-01-23T23:49:20Z",
+    "amount": 124.81,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000150",
+    "card_id": "card_00231",
+    "timestamp": "2026-01-26T02:30:11Z",
+    "amount": 54.9,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000151",
+    "card_id": "card_00064",
+    "timestamp": "2026-01-22T09:54:38Z",
+    "amount": 20.6,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000152",
+    "card_id": "card_00235",
+    "timestamp": "2026-01-22T03:46:16Z",
+    "amount": 69.65,
+    "merchant_category": "atm_withdrawal",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000153",
+    "card_id": "card_00090",
+    "timestamp": "2026-01-11T10:49:10Z",
+    "amount": 68.31,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000154",
+    "card_id": "card_00889",
+    "timestamp": "2026-01-06T20:43:44Z",
+    "amount": 32.53,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000155",
+    "card_id": "card_00334",
+    "timestamp": "2026-01-27T05:04:20Z",
+    "amount": 34.81,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000156",
+    "card_id": "card_00833",
+    "timestamp": "2026-01-08T01:18:02Z",
+    "amount": 58.24,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000157",
+    "card_id": "card_00649",
+    "timestamp": "2026-01-29T22:25:13Z",
+    "amount": 86.21,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000158",
+    "card_id": "card_00809",
+    "timestamp": "2026-01-03T08:55:22Z",
+    "amount": 35.73,
+    "merchant_category": "travel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000159",
+    "card_id": "card_00620",
+    "timestamp": "2026-01-01T14:34:52Z",
+    "amount": 68.39,
+    "merchant_category": "electronics",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000160",
+    "card_id": "card_00401",
+    "timestamp": "2026-01-19T15:19:59Z",
+    "amount": 70.12,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000161",
+    "card_id": "card_00432",
+    "timestamp": "2026-01-18T06:30:32Z",
+    "amount": 120.93,
+    "merchant_category": "pharmacy",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000162",
+    "card_id": "card_00606",
+    "timestamp": "2026-01-11T02:07:43Z",
+    "amount": 83.19,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000163",
+    "card_id": "card_00254",
+    "timestamp": "2026-01-22T10:13:23Z",
+    "amount": 69.73,
+    "merchant_category": "utilities",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000164",
+    "card_id": "card_00579",
+    "timestamp": "2026-01-23T18:47:02Z",
+    "amount": 387.74,
+    "merchant_category": "electronics",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000165",
+    "card_id": "card_00159",
+    "timestamp": "2026-01-05T22:44:56Z",
+    "amount": 13.82,
+    "merchant_category": "entertainment",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000166",
+    "card_id": "card_00244",
+    "timestamp": "2026-01-08T19:25:56Z",
+    "amount": 44.32,
+    "merchant_category": "pharmacy",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000167",
+    "card_id": "card_00800",
+    "timestamp": "2026-01-17T00:21:57Z",
+    "amount": 78.36,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000168",
+    "card_id": "card_00630",
+    "timestamp": "2026-01-21T15:34:05Z",
+    "amount": 116.77,
+    "merchant_category": "online_retail",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000169",
+    "card_id": "card_00441",
+    "timestamp": "2026-01-09T18:57:17Z",
+    "amount": 68.72,
+    "merchant_category": "grocery",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000170",
+    "card_id": "card_00180",
+    "timestamp": "2026-01-10T14:07:14Z",
+    "amount": 56.32,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000171",
+    "card_id": "card_00600",
+    "timestamp": "2026-01-01T06:50:17Z",
+    "amount": 37.7,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000172",
+    "card_id": "card_00866",
+    "timestamp": "2026-01-29T08:32:36Z",
+    "amount": 1007.78,
+    "merchant_category": "atm_withdrawal",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000173",
+    "card_id": "card_00732",
+    "timestamp": "2026-01-14T03:24:04Z",
+    "amount": 275.38,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000174",
+    "card_id": "card_00367",
+    "timestamp": "2026-01-11T11:52:30Z",
+    "amount": 128.44,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000175",
+    "card_id": "card_00210",
+    "timestamp": "2026-01-08T02:50:25Z",
+    "amount": 21.54,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000176",
+    "card_id": "card_00862",
+    "timestamp": "2026-01-19T21:40:53Z",
+    "amount": 64.08,
+    "merchant_category": "travel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000177",
+    "card_id": "card_00288",
+    "timestamp": "2026-01-02T12:27:51Z",
+    "amount": 22.02,
+    "merchant_category": "grocery",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000178",
+    "card_id": "card_00108",
+    "timestamp": "2026-01-23T17:25:54Z",
+    "amount": 104.56,
+    "merchant_category": "atm_withdrawal",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000179",
+    "card_id": "card_00744",
+    "timestamp": "2026-01-16T11:29:09Z",
+    "amount": 49.69,
+    "merchant_category": "online_retail",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000180",
+    "card_id": "card_00528",
+    "timestamp": "2026-01-15T02:28:07Z",
+    "amount": 41.06,
+    "merchant_category": "restaurant",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000181",
+    "card_id": "card_00794",
+    "timestamp": "2026-01-01T05:45:02Z",
+    "amount": 166.06,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000182",
+    "card_id": "card_00441",
+    "timestamp": "2026-01-19T16:00:48Z",
+    "amount": 33.15,
+    "merchant_category": "online_retail",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000183",
+    "card_id": "card_00802",
+    "timestamp": "2026-01-03T02:27:04Z",
+    "amount": 277.61,
+    "merchant_category": "fuel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000184",
+    "card_id": "card_00548",
+    "timestamp": "2026-01-13T11:50:13Z",
+    "amount": 144.25,
+    "merchant_category": "electronics",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000185",
+    "card_id": "card_00235",
+    "timestamp": "2026-01-18T02:31:03Z",
+    "amount": 918.16,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000186",
+    "card_id": "card_00591",
+    "timestamp": "2026-01-10T03:17:07Z",
+    "amount": 69.91,
+    "merchant_category": "electronics",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000187",
+    "card_id": "card_00085",
+    "timestamp": "2026-01-26T13:21:50Z",
+    "amount": 42.43,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000188",
+    "card_id": "card_00447",
+    "timestamp": "2026-01-17T05:47:42Z",
+    "amount": 78.07,
+    "merchant_category": "travel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000189",
+    "card_id": "card_00170",
+    "timestamp": "2026-01-16T22:02:34Z",
+    "amount": 13.22,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000190",
+    "card_id": "card_00667",
+    "timestamp": "2026-01-01T03:15:58Z",
+    "amount": 139.99,
+    "merchant_category": "pharmacy",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000191",
+    "card_id": "card_00060",
+    "timestamp": "2026-01-17T23:10:12Z",
+    "amount": 53.82,
+    "merchant_category": "utilities",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000192",
+    "card_id": "card_00890",
+    "timestamp": "2026-01-26T16:06:01Z",
+    "amount": 63.97,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000193",
+    "card_id": "card_00030",
+    "timestamp": "2026-01-26T05:47:30Z",
+    "amount": 107.72,
+    "merchant_category": "grocery",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000194",
+    "card_id": "card_00339",
+    "timestamp": "2026-01-30T16:03:56Z",
+    "amount": 88.28,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000195",
+    "card_id": "card_00284",
+    "timestamp": "2026-01-01T01:15:58Z",
+    "amount": 435.25,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000196",
+    "card_id": "card_00196",
+    "timestamp": "2026-01-18T11:13:39Z",
+    "amount": 107.81,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000197",
+    "card_id": "card_00374",
+    "timestamp": "2026-01-27T23:20:41Z",
+    "amount": 222.14,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000198",
+    "card_id": "card_00426",
+    "timestamp": "2026-01-22T03:39:22Z",
+    "amount": 24.57,
+    "merchant_category": "atm_withdrawal",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000199",
+    "card_id": "card_00395",
+    "timestamp": "2026-01-24T19:01:49Z",
+    "amount": 89.34,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000200",
+    "card_id": "card_00111",
+    "timestamp": "2026-01-16T21:42:45Z",
+    "amount": 69.17,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000201",
+    "card_id": "card_00005",
+    "timestamp": "2026-01-07T16:50:33Z",
+    "amount": 138.13,
+    "merchant_category": "restaurant",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000202",
+    "card_id": "card_00401",
+    "timestamp": "2026-01-22T03:37:27Z",
+    "amount": 231.85,
+    "merchant_category": "entertainment",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000203",
+    "card_id": "card_00014",
+    "timestamp": "2026-01-05T21:07:42Z",
+    "amount": 10.33,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000204",
+    "card_id": "card_00395",
+    "timestamp": "2026-01-15T06:01:52Z",
+    "amount": 280.31,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000205",
+    "card_id": "card_00690",
+    "timestamp": "2026-01-08T19:18:09Z",
+    "amount": 50.29,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000206",
+    "card_id": "card_00699",
+    "timestamp": "2026-01-19T13:13:25Z",
+    "amount": 18.62,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000207",
+    "card_id": "card_00614",
+    "timestamp": "2026-01-29T13:48:09Z",
+    "amount": 359.28,
+    "merchant_category": "entertainment",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000208",
+    "card_id": "card_00198",
+    "timestamp": "2026-01-07T06:40:16Z",
+    "amount": 78.39,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000209",
+    "card_id": "card_00701",
+    "timestamp": "2026-01-27T15:34:35Z",
+    "amount": 197.82,
+    "merchant_category": "restaurant",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000210",
+    "card_id": "card_00839",
+    "timestamp": "2026-01-11T09:49:06Z",
+    "amount": 51.42,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000211",
+    "card_id": "card_00601",
+    "timestamp": "2026-01-19T11:23:23Z",
+    "amount": 236.68,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000212",
+    "card_id": "card_00327",
+    "timestamp": "2026-01-13T11:58:51Z",
+    "amount": 84.6,
+    "merchant_category": "pharmacy",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000213",
+    "card_id": "card_00752",
+    "timestamp": "2026-01-01T06:52:28Z",
+    "amount": 8.06,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000214",
+    "card_id": "card_00458",
+    "timestamp": "2026-01-13T17:30:20Z",
+    "amount": 18.73,
+    "merchant_category": "atm_withdrawal",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000215",
+    "card_id": "card_00724",
+    "timestamp": "2026-01-22T13:07:46Z",
+    "amount": 24.55,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000216",
+    "card_id": "card_00737",
+    "timestamp": "2026-01-08T22:36:08Z",
+    "amount": 41.01,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000217",
+    "card_id": "card_00460",
+    "timestamp": "2026-01-27T11:38:56Z",
+    "amount": 50.12,
+    "merchant_category": "restaurant",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000218",
+    "card_id": "card_00073",
+    "timestamp": "2026-01-13T09:50:33Z",
+    "amount": 70.55,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000219",
+    "card_id": "card_00629",
+    "timestamp": "2026-01-18T12:36:48Z",
+    "amount": 18.86,
+    "merchant_category": "grocery",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000220",
+    "card_id": "card_00813",
+    "timestamp": "2026-01-29T16:38:39Z",
+    "amount": 20.34,
+    "merchant_category": "grocery",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000221",
+    "card_id": "card_00188",
+    "timestamp": "2026-01-20T10:39:51Z",
+    "amount": 48.69,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000222",
+    "card_id": "card_00306",
+    "timestamp": "2026-01-12T17:42:23Z",
+    "amount": 213.47,
+    "merchant_category": "entertainment",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000223",
+    "card_id": "card_00392",
+    "timestamp": "2026-01-24T00:47:48Z",
+    "amount": 389.9,
+    "merchant_category": "restaurant",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000224",
+    "card_id": "card_00395",
+    "timestamp": "2026-01-02T12:16:02Z",
+    "amount": 54.36,
+    "merchant_category": "grocery",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000225",
+    "card_id": "card_00436",
+    "timestamp": "2026-01-11T11:02:56Z",
+    "amount": 221.69,
+    "merchant_category": "pharmacy",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000226",
+    "card_id": "card_00559",
+    "timestamp": "2026-01-14T07:48:44Z",
+    "amount": 107.79,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000227",
+    "card_id": "card_00826",
+    "timestamp": "2026-01-19T13:32:27Z",
+    "amount": 75.36,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000228",
+    "card_id": "card_00180",
+    "timestamp": "2026-01-28T02:53:36Z",
+    "amount": 28.92,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000229",
+    "card_id": "card_00666",
+    "timestamp": "2026-01-26T06:33:11Z",
+    "amount": 196.37,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000230",
+    "card_id": "card_00527",
+    "timestamp": "2026-01-19T11:26:07Z",
+    "amount": 140.99,
+    "merchant_category": "electronics",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000231",
+    "card_id": "card_00006",
+    "timestamp": "2026-01-30T11:04:27Z",
+    "amount": 193.35,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000232",
+    "card_id": "card_00297",
+    "timestamp": "2026-01-07T16:52:43Z",
+    "amount": 117.5,
+    "merchant_category": "pharmacy",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000233",
+    "card_id": "card_00394",
+    "timestamp": "2026-01-19T00:51:05Z",
+    "amount": 25.46,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000234",
+    "card_id": "card_00169",
+    "timestamp": "2026-01-10T05:13:45Z",
+    "amount": 218.53,
+    "merchant_category": "online_retail",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000235",
+    "card_id": "card_00671",
+    "timestamp": "2026-01-03T02:08:26Z",
+    "amount": 115.39,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000236",
+    "card_id": "card_00511",
+    "timestamp": "2026-01-10T18:34:57Z",
+    "amount": 257.39,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000237",
+    "card_id": "card_00520",
+    "timestamp": "2026-01-05T03:25:13Z",
+    "amount": 97.16,
+    "merchant_category": "online_retail",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000238",
+    "card_id": "card_00848",
+    "timestamp": "2026-01-10T12:04:41Z",
+    "amount": 16.38,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000239",
+    "card_id": "card_00418",
+    "timestamp": "2026-01-04T10:06:30Z",
+    "amount": 14.23,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000240",
+    "card_id": "card_00127",
+    "timestamp": "2026-01-28T02:15:05Z",
+    "amount": 16.96,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000241",
+    "card_id": "card_00133",
+    "timestamp": "2026-01-15T23:14:50Z",
+    "amount": 6.72,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000242",
+    "card_id": "card_00383",
+    "timestamp": "2026-01-19T11:47:49Z",
+    "amount": 18.52,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000243",
+    "card_id": "card_00019",
+    "timestamp": "2026-01-12T21:03:34Z",
+    "amount": 61.66,
+    "merchant_category": "electronics",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000244",
+    "card_id": "card_00372",
+    "timestamp": "2026-01-21T10:04:22Z",
+    "amount": 9.42,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000245",
+    "card_id": "card_00327",
+    "timestamp": "2026-01-01T15:00:17Z",
+    "amount": 89.09,
+    "merchant_category": "online_retail",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000246",
+    "card_id": "card_00389",
+    "timestamp": "2026-01-08T17:03:17Z",
+    "amount": 52.85,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000247",
+    "card_id": "card_00764",
+    "timestamp": "2026-01-06T19:10:07Z",
+    "amount": 107.49,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000248",
+    "card_id": "card_00424",
+    "timestamp": "2026-01-03T17:44:09Z",
+    "amount": 3964.63,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000249",
+    "card_id": "card_00724",
+    "timestamp": "2026-01-30T23:46:48Z",
+    "amount": 168.82,
+    "merchant_category": "utilities",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000250",
+    "card_id": "card_00055",
+    "timestamp": "2026-01-08T15:56:16Z",
+    "amount": 160.69,
+    "merchant_category": "restaurant",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000251",
+    "card_id": "card_00132",
+    "timestamp": "2026-01-28T07:31:59Z",
+    "amount": 43.58,
+    "merchant_category": "online_retail",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000252",
+    "card_id": "card_00247",
+    "timestamp": "2026-01-02T02:31:13Z",
+    "amount": 3.13,
+    "merchant_category": "grocery",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000253",
+    "card_id": "card_00606",
+    "timestamp": "2026-01-13T13:17:17Z",
+    "amount": 43.31,
+    "merchant_category": "pharmacy",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000254",
+    "card_id": "card_00680",
+    "timestamp": "2026-01-23T09:15:37Z",
+    "amount": 21.55,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000255",
+    "card_id": "card_00054",
+    "timestamp": "2026-01-20T21:58:37Z",
+    "amount": 712.29,
+    "merchant_category": "restaurant",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000256",
+    "card_id": "card_00192",
+    "timestamp": "2026-01-18T01:43:15Z",
+    "amount": 66.43,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000257",
+    "card_id": "card_00075",
+    "timestamp": "2026-01-25T01:09:56Z",
+    "amount": 1249.9,
+    "merchant_category": "travel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000258",
+    "card_id": "card_00548",
+    "timestamp": "2026-01-21T18:29:04Z",
+    "amount": 31.5,
+    "merchant_category": "utilities",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000259",
+    "card_id": "card_00821",
+    "timestamp": "2026-01-27T20:53:19Z",
+    "amount": 12.3,
+    "merchant_category": "travel",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000260",
+    "card_id": "card_00750",
+    "timestamp": "2026-01-04T00:19:30Z",
+    "amount": 356.2,
+    "merchant_category": "fuel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000261",
+    "card_id": "card_00012",
+    "timestamp": "2026-01-15T00:33:01Z",
+    "amount": 114.44,
+    "merchant_category": "travel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000262",
+    "card_id": "card_00128",
+    "timestamp": "2026-01-29T15:12:17Z",
+    "amount": 65.8,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000263",
+    "card_id": "card_00532",
+    "timestamp": "2026-01-04T23:53:28Z",
+    "amount": 33.87,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000264",
+    "card_id": "card_00016",
+    "timestamp": "2026-01-01T17:43:51Z",
+    "amount": 38.63,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000265",
+    "card_id": "card_00859",
+    "timestamp": "2026-01-29T23:23:25Z",
+    "amount": 93.67,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000266",
+    "card_id": "card_00292",
+    "timestamp": "2026-01-08T14:50:00Z",
+    "amount": 78.07,
+    "merchant_category": "pharmacy",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000267",
+    "card_id": "card_00414",
+    "timestamp": "2026-01-20T03:26:49Z",
+    "amount": 8.79,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000268",
+    "card_id": "card_00028",
+    "timestamp": "2026-01-09T10:49:43Z",
+    "amount": 103.84,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000269",
+    "card_id": "card_00812",
+    "timestamp": "2026-01-05T17:16:22Z",
+    "amount": 100.44,
+    "merchant_category": "online_retail",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000270",
+    "card_id": "card_00215",
+    "timestamp": "2026-01-05T07:19:47Z",
+    "amount": 107.97,
+    "merchant_category": "online_retail",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000271",
+    "card_id": "card_00774",
+    "timestamp": "2026-01-20T04:52:53Z",
+    "amount": 55.16,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000272",
+    "card_id": "card_00827",
+    "timestamp": "2026-01-03T17:58:01Z",
+    "amount": 16.83,
+    "merchant_category": "pharmacy",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000273",
+    "card_id": "card_00613",
+    "timestamp": "2026-01-18T10:11:06Z",
+    "amount": 195.6,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000274",
+    "card_id": "card_00780",
+    "timestamp": "2026-01-20T23:35:58Z",
+    "amount": 304.55,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000275",
+    "card_id": "card_00673",
+    "timestamp": "2026-01-11T23:42:41Z",
+    "amount": 60.79,
+    "merchant_category": "utilities",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000276",
+    "card_id": "card_00233",
+    "timestamp": "2026-01-08T14:06:15Z",
+    "amount": 591.16,
+    "merchant_category": "utilities",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000277",
+    "card_id": "card_00820",
+    "timestamp": "2026-01-22T03:58:05Z",
+    "amount": 548.68,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000278",
+    "card_id": "card_00852",
+    "timestamp": "2026-01-09T09:11:06Z",
+    "amount": 641.18,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000279",
+    "card_id": "card_00011",
+    "timestamp": "2026-01-06T05:24:05Z",
+    "amount": 139.41,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000280",
+    "card_id": "card_00282",
+    "timestamp": "2026-01-07T13:41:49Z",
+    "amount": 28.23,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000281",
+    "card_id": "card_00452",
+    "timestamp": "2026-01-02T19:45:47Z",
+    "amount": 103.75,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000282",
+    "card_id": "card_00113",
+    "timestamp": "2026-01-06T08:01:51Z",
+    "amount": 51.14,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000283",
+    "card_id": "card_00141",
+    "timestamp": "2026-01-05T06:44:06Z",
+    "amount": 31.97,
+    "merchant_category": "entertainment",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000284",
+    "card_id": "card_00326",
+    "timestamp": "2026-01-18T04:32:51Z",
+    "amount": 351.24,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000285",
+    "card_id": "card_00394",
+    "timestamp": "2026-01-09T23:11:41Z",
+    "amount": 154.73,
+    "merchant_category": "grocery",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000286",
+    "card_id": "card_00003",
+    "timestamp": "2026-01-07T21:08:33Z",
+    "amount": 32.54,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000287",
+    "card_id": "card_00824",
+    "timestamp": "2026-01-16T20:34:40Z",
+    "amount": 98.45,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000288",
+    "card_id": "card_00103",
+    "timestamp": "2026-01-10T13:21:40Z",
+    "amount": 66.02,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000289",
+    "card_id": "card_00464",
+    "timestamp": "2026-01-11T11:17:18Z",
+    "amount": 45.73,
+    "merchant_category": "utilities",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000290",
+    "card_id": "card_00290",
+    "timestamp": "2026-01-02T04:48:19Z",
+    "amount": 45.33,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000291",
+    "card_id": "card_00673",
+    "timestamp": "2026-01-07T15:29:19Z",
+    "amount": 29.41,
+    "merchant_category": "restaurant",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000292",
+    "card_id": "card_00102",
+    "timestamp": "2026-01-02T05:31:39Z",
+    "amount": 51.28,
+    "merchant_category": "fuel",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000293",
+    "card_id": "card_00232",
+    "timestamp": "2026-01-11T20:39:31Z",
+    "amount": 1219.48,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000294",
+    "card_id": "card_00179",
+    "timestamp": "2026-01-01T22:25:11Z",
+    "amount": 118.45,
+    "merchant_category": "atm_withdrawal",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000295",
+    "card_id": "card_00463",
+    "timestamp": "2026-01-06T14:43:27Z",
+    "amount": 42.21,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000296",
+    "card_id": "card_00461",
+    "timestamp": "2026-01-20T12:31:57Z",
+    "amount": 14.51,
+    "merchant_category": "restaurant",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000297",
+    "card_id": "card_00129",
+    "timestamp": "2026-01-21T18:36:03Z",
+    "amount": 17.93,
+    "merchant_category": "atm_withdrawal",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000298",
+    "card_id": "card_00315",
+    "timestamp": "2026-01-11T13:26:05Z",
+    "amount": 368.81,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000299",
+    "card_id": "card_00444",
+    "timestamp": "2026-01-06T14:23:56Z",
+    "amount": 73.6,
+    "merchant_category": "entertainment",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000300",
+    "card_id": "card_00112",
+    "timestamp": "2026-01-14T04:06:51Z",
+    "amount": 697.51,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000301",
+    "card_id": "card_00144",
+    "timestamp": "2026-01-10T14:56:01Z",
+    "amount": 64.97,
+    "merchant_category": "electronics",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000302",
+    "card_id": "card_00116",
+    "timestamp": "2026-01-04T19:50:22Z",
+    "amount": 19.6,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000303",
+    "card_id": "card_00584",
+    "timestamp": "2026-01-03T03:14:00Z",
+    "amount": 221.82,
+    "merchant_category": "pharmacy",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000304",
+    "card_id": "card_00356",
+    "timestamp": "2026-01-16T19:40:10Z",
+    "amount": 76.88,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000305",
+    "card_id": "card_00629",
+    "timestamp": "2026-01-02T03:26:22Z",
+    "amount": 363.41,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000306",
+    "card_id": "card_00588",
+    "timestamp": "2026-01-22T13:54:02Z",
+    "amount": 46.75,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000307",
+    "card_id": "card_00401",
+    "timestamp": "2026-01-11T09:17:18Z",
+    "amount": 342.01,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000308",
+    "card_id": "card_00815",
+    "timestamp": "2026-01-12T13:36:09Z",
+    "amount": 155.93,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000309",
+    "card_id": "card_00752",
+    "timestamp": "2026-01-08T11:36:38Z",
+    "amount": 25.39,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000310",
+    "card_id": "card_00871",
+    "timestamp": "2026-01-09T09:47:58Z",
+    "amount": 178.25,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000311",
+    "card_id": "card_00723",
+    "timestamp": "2026-01-05T10:36:05Z",
+    "amount": 175.49,
+    "merchant_category": "grocery",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000312",
+    "card_id": "card_00137",
+    "timestamp": "2026-01-24T01:54:36Z",
+    "amount": 146.06,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000313",
+    "card_id": "card_00862",
+    "timestamp": "2026-01-30T16:42:18Z",
+    "amount": 95.84,
+    "merchant_category": "travel",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000314",
+    "card_id": "card_00448",
+    "timestamp": "2026-01-01T21:43:52Z",
+    "amount": 40.54,
+    "merchant_category": "restaurant",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000315",
+    "card_id": "card_00214",
+    "timestamp": "2026-01-01T14:14:38Z",
+    "amount": 290.4,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000316",
+    "card_id": "card_00447",
+    "timestamp": "2026-01-19T22:47:12Z",
+    "amount": 49.41,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000317",
+    "card_id": "card_00709",
+    "timestamp": "2026-01-25T15:18:36Z",
+    "amount": 169.95,
+    "merchant_category": "electronics",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000318",
+    "card_id": "card_00807",
+    "timestamp": "2026-01-28T18:32:51Z",
+    "amount": 169.72,
+    "merchant_category": "travel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000319",
+    "card_id": "card_00613",
+    "timestamp": "2026-01-11T19:45:02Z",
+    "amount": 58.26,
+    "merchant_category": "electronics",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000320",
+    "card_id": "card_00121",
+    "timestamp": "2026-01-06T09:56:14Z",
+    "amount": 115.08,
+    "merchant_category": "travel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000321",
+    "card_id": "card_00229",
+    "timestamp": "2026-01-25T01:11:35Z",
+    "amount": 674.27,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000322",
+    "card_id": "card_00191",
+    "timestamp": "2026-01-15T23:11:13Z",
+    "amount": 55.3,
+    "merchant_category": "travel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000323",
+    "card_id": "card_00132",
+    "timestamp": "2026-01-01T01:57:55Z",
+    "amount": 63.31,
+    "merchant_category": "travel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000324",
+    "card_id": "card_00079",
+    "timestamp": "2026-01-28T16:58:20Z",
+    "amount": 280.32,
+    "merchant_category": "travel",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000325",
+    "card_id": "card_00006",
+    "timestamp": "2026-01-25T05:20:11Z",
+    "amount": 51.63,
+    "merchant_category": "online_retail",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000326",
+    "card_id": "card_00343",
+    "timestamp": "2026-01-10T06:08:05Z",
+    "amount": 192.7,
+    "merchant_category": "utilities",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000327",
+    "card_id": "card_00487",
+    "timestamp": "2026-01-20T03:39:47Z",
+    "amount": 153.03,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000328",
+    "card_id": "card_00651",
+    "timestamp": "2026-01-17T05:16:22Z",
+    "amount": 374.95,
+    "merchant_category": "online_retail",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000329",
+    "card_id": "card_00365",
+    "timestamp": "2026-01-24T19:21:03Z",
+    "amount": 29.5,
+    "merchant_category": "atm_withdrawal",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000330",
+    "card_id": "card_00278",
+    "timestamp": "2026-01-22T15:31:21Z",
+    "amount": 19.48,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000331",
+    "card_id": "card_00229",
+    "timestamp": "2026-01-11T04:12:30Z",
+    "amount": 71.73,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000332",
+    "card_id": "card_00008",
+    "timestamp": "2026-01-08T19:09:58Z",
+    "amount": 71.96,
+    "merchant_category": "online_retail",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000333",
+    "card_id": "card_00527",
+    "timestamp": "2026-01-13T17:57:05Z",
+    "amount": 57.59,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000334",
+    "card_id": "card_00490",
+    "timestamp": "2026-01-02T02:27:55Z",
+    "amount": 263.77,
+    "merchant_category": "utilities",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000335",
+    "card_id": "card_00298",
+    "timestamp": "2026-01-08T12:28:10Z",
+    "amount": 87.77,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000336",
+    "card_id": "card_00584",
+    "timestamp": "2026-01-18T01:36:44Z",
+    "amount": 266.97,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000337",
+    "card_id": "card_00858",
+    "timestamp": "2026-01-06T19:40:36Z",
+    "amount": 188.82,
+    "merchant_category": "pharmacy",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000338",
+    "card_id": "card_00594",
+    "timestamp": "2026-01-24T05:14:17Z",
+    "amount": 8.86,
+    "merchant_category": "restaurant",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000339",
+    "card_id": "card_00428",
+    "timestamp": "2026-01-14T21:43:57Z",
+    "amount": 32.63,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000340",
+    "card_id": "card_00177",
+    "timestamp": "2026-01-26T01:44:06Z",
+    "amount": 235.28,
+    "merchant_category": "electronics",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000341",
+    "card_id": "card_00162",
+    "timestamp": "2026-01-23T12:22:58Z",
+    "amount": 63.68,
+    "merchant_category": "entertainment",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000342",
+    "card_id": "card_00701",
+    "timestamp": "2026-01-01T00:00:38Z",
+    "amount": 104.73,
+    "merchant_category": "pharmacy",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000343",
+    "card_id": "card_00604",
+    "timestamp": "2026-01-15T01:15:32Z",
+    "amount": 622.25,
+    "merchant_category": "travel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000344",
+    "card_id": "card_00295",
+    "timestamp": "2026-01-19T23:37:41Z",
+    "amount": 54.2,
+    "merchant_category": "online_retail",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000345",
+    "card_id": "card_00830",
+    "timestamp": "2026-01-12T09:16:03Z",
+    "amount": 240.81,
+    "merchant_category": "entertainment",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000346",
+    "card_id": "card_00507",
+    "timestamp": "2026-01-22T09:00:12Z",
+    "amount": 76.36,
+    "merchant_category": "online_retail",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000347",
+    "card_id": "card_00592",
+    "timestamp": "2026-01-25T05:25:15Z",
+    "amount": 32.18,
+    "merchant_category": "utilities",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000348",
+    "card_id": "card_00832",
+    "timestamp": "2026-01-14T10:46:45Z",
+    "amount": 88.97,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000349",
+    "card_id": "card_00897",
+    "timestamp": "2026-01-30T06:50:28Z",
+    "amount": 205.4,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000350",
+    "card_id": "card_00191",
+    "timestamp": "2026-01-19T23:17:02Z",
+    "amount": 2616.21,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000351",
+    "card_id": "card_00815",
+    "timestamp": "2026-01-17T01:47:04Z",
+    "amount": 163.52,
+    "merchant_category": "travel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000352",
+    "card_id": "card_00245",
+    "timestamp": "2026-01-15T20:33:10Z",
+    "amount": 21.82,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000353",
+    "card_id": "card_00454",
+    "timestamp": "2026-01-27T05:51:53Z",
+    "amount": 33.02,
+    "merchant_category": "atm_withdrawal",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000354",
+    "card_id": "card_00160",
+    "timestamp": "2026-01-03T16:54:24Z",
+    "amount": 263.57,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000355",
+    "card_id": "card_00630",
+    "timestamp": "2026-01-19T01:41:37Z",
+    "amount": 23.9,
+    "merchant_category": "grocery",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000356",
+    "card_id": "card_00603",
+    "timestamp": "2026-01-24T03:53:15Z",
+    "amount": 30.19,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000357",
+    "card_id": "card_00592",
+    "timestamp": "2026-01-20T18:09:47Z",
+    "amount": 41.35,
+    "merchant_category": "electronics",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000358",
+    "card_id": "card_00337",
+    "timestamp": "2026-01-17T12:05:38Z",
+    "amount": 473.73,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000359",
+    "card_id": "card_00110",
+    "timestamp": "2026-01-30T02:45:32Z",
+    "amount": 311.59,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000360",
+    "card_id": "card_00796",
+    "timestamp": "2026-01-16T04:06:28Z",
+    "amount": 49.67,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000361",
+    "card_id": "card_00516",
+    "timestamp": "2026-01-13T12:50:37Z",
+    "amount": 250.06,
+    "merchant_category": "atm_withdrawal",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000362",
+    "card_id": "card_00356",
+    "timestamp": "2026-01-09T11:01:11Z",
+    "amount": 27.58,
+    "merchant_category": "travel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000363",
+    "card_id": "card_00180",
+    "timestamp": "2026-01-10T06:32:18Z",
+    "amount": 27.68,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000364",
+    "card_id": "card_00601",
+    "timestamp": "2026-01-13T07:35:32Z",
+    "amount": 184.3,
+    "merchant_category": "travel",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000365",
+    "card_id": "card_00837",
+    "timestamp": "2026-01-30T06:46:59Z",
+    "amount": 21.14,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000366",
+    "card_id": "card_00202",
+    "timestamp": "2026-01-19T09:55:04Z",
+    "amount": 68.48,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000367",
+    "card_id": "card_00303",
+    "timestamp": "2026-01-12T06:25:40Z",
+    "amount": 74.11,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000368",
+    "card_id": "card_00782",
+    "timestamp": "2026-01-15T04:56:11Z",
+    "amount": 19.27,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000369",
+    "card_id": "card_00550",
+    "timestamp": "2026-01-01T10:48:04Z",
+    "amount": 87.19,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000370",
+    "card_id": "card_00443",
+    "timestamp": "2026-01-26T13:50:50Z",
+    "amount": 75.15,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000371",
+    "card_id": "card_00011",
+    "timestamp": "2026-01-17T01:37:38Z",
+    "amount": 22.43,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000372",
+    "card_id": "card_00347",
+    "timestamp": "2026-01-20T15:46:30Z",
+    "amount": 87.98,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000373",
+    "card_id": "card_00312",
+    "timestamp": "2026-01-09T14:21:35Z",
+    "amount": 228.0,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000374",
+    "card_id": "card_00788",
+    "timestamp": "2026-01-25T02:36:42Z",
+    "amount": 46.19,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000375",
+    "card_id": "card_00768",
+    "timestamp": "2026-01-14T12:33:56Z",
+    "amount": 0.87,
+    "merchant_category": "online_retail",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000376",
+    "card_id": "card_00348",
+    "timestamp": "2026-01-29T09:07:31Z",
+    "amount": 26.83,
+    "merchant_category": "electronics",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000377",
+    "card_id": "card_00492",
+    "timestamp": "2026-01-02T02:45:24Z",
+    "amount": 92.2,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000378",
+    "card_id": "card_00012",
+    "timestamp": "2026-01-12T14:20:10Z",
+    "amount": 416.59,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000379",
+    "card_id": "card_00796",
+    "timestamp": "2026-01-27T02:45:34Z",
+    "amount": 30.58,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000380",
+    "card_id": "card_00249",
+    "timestamp": "2026-01-07T23:37:01Z",
+    "amount": 341.75,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000381",
+    "card_id": "card_00347",
+    "timestamp": "2026-01-14T13:30:51Z",
+    "amount": 10.84,
+    "merchant_category": "restaurant",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000382",
+    "card_id": "card_00604",
+    "timestamp": "2026-01-09T10:25:31Z",
+    "amount": 48.18,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000383",
+    "card_id": "card_00621",
+    "timestamp": "2026-01-07T18:01:36Z",
+    "amount": 220.53,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000384",
+    "card_id": "card_00254",
+    "timestamp": "2026-01-25T06:38:39Z",
+    "amount": 431.45,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000385",
+    "card_id": "card_00574",
+    "timestamp": "2026-01-05T13:43:14Z",
+    "amount": 142.84,
+    "merchant_category": "restaurant",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000386",
+    "card_id": "card_00254",
+    "timestamp": "2026-01-16T01:43:34Z",
+    "amount": 44.67,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000387",
+    "card_id": "card_00479",
+    "timestamp": "2026-01-22T18:07:12Z",
+    "amount": 162.89,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000388",
+    "card_id": "card_00705",
+    "timestamp": "2026-01-14T03:00:37Z",
+    "amount": 1666.43,
+    "merchant_category": "online_retail",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000389",
+    "card_id": "card_00074",
+    "timestamp": "2026-01-01T11:18:18Z",
+    "amount": 74.51,
+    "merchant_category": "restaurant",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000390",
+    "card_id": "card_00354",
+    "timestamp": "2026-01-16T08:48:13Z",
+    "amount": 59.54,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000391",
+    "card_id": "card_00369",
+    "timestamp": "2026-01-20T21:26:32Z",
+    "amount": 17.74,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000392",
+    "card_id": "card_00594",
+    "timestamp": "2026-01-21T13:44:55Z",
+    "amount": 123.29,
+    "merchant_category": "electronics",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000393",
+    "card_id": "card_00305",
+    "timestamp": "2026-01-22T22:28:48Z",
+    "amount": 28.47,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000394",
+    "card_id": "card_00368",
+    "timestamp": "2026-01-22T22:28:09Z",
+    "amount": 61.38,
+    "merchant_category": "atm_withdrawal",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000395",
+    "card_id": "card_00063",
+    "timestamp": "2026-01-20T01:19:51Z",
+    "amount": 119.71,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000396",
+    "card_id": "card_00584",
+    "timestamp": "2026-01-04T03:47:03Z",
+    "amount": 34.55,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000397",
+    "card_id": "card_00802",
+    "timestamp": "2026-01-25T11:24:10Z",
+    "amount": 10.35,
+    "merchant_category": "travel",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000398",
+    "card_id": "card_00155",
+    "timestamp": "2026-01-20T07:54:38Z",
+    "amount": 42.68,
+    "merchant_category": "restaurant",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000399",
+    "card_id": "card_00868",
+    "timestamp": "2026-01-01T01:32:21Z",
+    "amount": 122.17,
+    "merchant_category": "atm_withdrawal",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000400",
+    "card_id": "card_00303",
+    "timestamp": "2026-01-30T23:36:15Z",
+    "amount": 73.66,
+    "merchant_category": "entertainment",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000401",
+    "card_id": "card_00151",
+    "timestamp": "2026-01-11T08:18:43Z",
+    "amount": 647.97,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000402",
+    "card_id": "card_00213",
+    "timestamp": "2026-01-29T22:03:15Z",
+    "amount": 116.52,
+    "merchant_category": "entertainment",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000403",
+    "card_id": "card_00143",
+    "timestamp": "2026-01-19T17:19:14Z",
+    "amount": 1776.1,
+    "merchant_category": "travel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000404",
+    "card_id": "card_00361",
+    "timestamp": "2026-01-19T01:29:26Z",
+    "amount": 77.11,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000405",
+    "card_id": "card_00190",
+    "timestamp": "2026-01-23T20:31:09Z",
+    "amount": 21.67,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000406",
+    "card_id": "card_00383",
+    "timestamp": "2026-01-25T10:25:35Z",
+    "amount": 102.59,
+    "merchant_category": "electronics",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000407",
+    "card_id": "card_00383",
+    "timestamp": "2026-01-18T05:33:18Z",
+    "amount": 58.34,
+    "merchant_category": "atm_withdrawal",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000408",
+    "card_id": "card_00608",
+    "timestamp": "2026-01-24T15:29:29Z",
+    "amount": 82.22,
+    "merchant_category": "electronics",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000409",
+    "card_id": "card_00740",
+    "timestamp": "2026-01-02T14:25:44Z",
+    "amount": 27.01,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000410",
+    "card_id": "card_00441",
+    "timestamp": "2026-01-12T02:46:45Z",
+    "amount": 48.97,
+    "merchant_category": "entertainment",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000411",
+    "card_id": "card_00538",
+    "timestamp": "2026-01-12T20:26:09Z",
+    "amount": 145.73,
+    "merchant_category": "pharmacy",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000412",
+    "card_id": "card_00298",
+    "timestamp": "2026-01-30T11:59:31Z",
+    "amount": 56.9,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000413",
+    "card_id": "card_00573",
+    "timestamp": "2026-01-22T10:16:12Z",
+    "amount": 101.02,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000414",
+    "card_id": "card_00555",
+    "timestamp": "2026-01-25T13:25:57Z",
+    "amount": 412.33,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000415",
+    "card_id": "card_00129",
+    "timestamp": "2026-01-21T23:40:24Z",
+    "amount": 276.39,
+    "merchant_category": "fuel",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000416",
+    "card_id": "card_00763",
+    "timestamp": "2026-01-06T16:43:39Z",
+    "amount": 27.09,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000417",
+    "card_id": "card_00841",
+    "timestamp": "2026-01-07T02:20:38Z",
+    "amount": 8.95,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000418",
+    "card_id": "card_00214",
+    "timestamp": "2026-01-13T16:54:32Z",
+    "amount": 322.75,
+    "merchant_category": "entertainment",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000419",
+    "card_id": "card_00374",
+    "timestamp": "2026-01-29T14:14:26Z",
+    "amount": 389.09,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000420",
+    "card_id": "card_00267",
+    "timestamp": "2026-01-07T13:39:41Z",
+    "amount": 16.56,
+    "merchant_category": "utilities",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000421",
+    "card_id": "card_00440",
+    "timestamp": "2026-01-15T02:02:00Z",
+    "amount": 42.76,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000422",
+    "card_id": "card_00312",
+    "timestamp": "2026-01-12T00:20:25Z",
+    "amount": 79.06,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000423",
+    "card_id": "card_00703",
+    "timestamp": "2026-01-21T20:40:56Z",
+    "amount": 12.36,
+    "merchant_category": "grocery",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000424",
+    "card_id": "card_00442",
+    "timestamp": "2026-01-16T01:33:27Z",
+    "amount": 75.93,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000425",
+    "card_id": "card_00844",
+    "timestamp": "2026-01-05T23:35:43Z",
+    "amount": 51.93,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000426",
+    "card_id": "card_00665",
+    "timestamp": "2026-01-18T19:24:58Z",
+    "amount": 35.62,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000427",
+    "card_id": "card_00894",
+    "timestamp": "2026-01-25T11:49:37Z",
+    "amount": 53.23,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000428",
+    "card_id": "card_00079",
+    "timestamp": "2026-01-06T12:42:37Z",
+    "amount": 325.49,
+    "merchant_category": "travel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000429",
+    "card_id": "card_00462",
+    "timestamp": "2026-01-21T07:42:45Z",
+    "amount": 295.5,
+    "merchant_category": "travel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000430",
+    "card_id": "card_00194",
+    "timestamp": "2026-01-07T05:34:06Z",
+    "amount": 948.37,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000431",
+    "card_id": "card_00029",
+    "timestamp": "2026-01-14T06:03:52Z",
+    "amount": 66.79,
+    "merchant_category": "entertainment",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000432",
+    "card_id": "card_00513",
+    "timestamp": "2026-01-11T12:32:49Z",
+    "amount": 89.52,
+    "merchant_category": "pharmacy",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000433",
+    "card_id": "card_00135",
+    "timestamp": "2026-01-20T08:57:45Z",
+    "amount": 33.98,
+    "merchant_category": "travel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000434",
+    "card_id": "card_00864",
+    "timestamp": "2026-01-12T17:55:38Z",
+    "amount": 14.74,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000435",
+    "card_id": "card_00068",
+    "timestamp": "2026-01-26T08:15:24Z",
+    "amount": 4.44,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000436",
+    "card_id": "card_00408",
+    "timestamp": "2026-01-25T18:23:27Z",
+    "amount": 83.62,
+    "merchant_category": "atm_withdrawal",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000437",
+    "card_id": "card_00413",
+    "timestamp": "2026-01-18T11:53:29Z",
+    "amount": 60.09,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000438",
+    "card_id": "card_00378",
+    "timestamp": "2026-01-26T11:05:43Z",
+    "amount": 17.71,
+    "merchant_category": "fuel",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000439",
+    "card_id": "card_00265",
+    "timestamp": "2026-01-07T10:34:28Z",
+    "amount": 18.62,
+    "merchant_category": "utilities",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000440",
+    "card_id": "card_00052",
+    "timestamp": "2026-01-08T18:15:04Z",
+    "amount": 5.59,
+    "merchant_category": "fuel",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000441",
+    "card_id": "card_00782",
+    "timestamp": "2026-01-20T14:45:10Z",
+    "amount": 15.66,
+    "merchant_category": "atm_withdrawal",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000442",
+    "card_id": "card_00334",
+    "timestamp": "2026-01-29T02:28:49Z",
+    "amount": 66.39,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000443",
+    "card_id": "card_00603",
+    "timestamp": "2026-01-20T16:43:12Z",
+    "amount": 59.9,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000444",
+    "card_id": "card_00199",
+    "timestamp": "2026-01-18T18:11:52Z",
+    "amount": 38.54,
+    "merchant_category": "entertainment",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000445",
+    "card_id": "card_00135",
+    "timestamp": "2026-01-08T06:50:57Z",
+    "amount": 485.07,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000446",
+    "card_id": "card_00539",
+    "timestamp": "2026-01-12T01:34:07Z",
+    "amount": 9.47,
+    "merchant_category": "restaurant",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000447",
+    "card_id": "card_00097",
+    "timestamp": "2026-01-07T17:52:27Z",
+    "amount": 120.38,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000448",
+    "card_id": "card_00240",
+    "timestamp": "2026-01-23T14:17:32Z",
+    "amount": 62.77,
+    "merchant_category": "entertainment",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000449",
+    "card_id": "card_00284",
+    "timestamp": "2026-01-21T19:35:43Z",
+    "amount": 31.73,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000450",
+    "card_id": "card_00870",
+    "timestamp": "2026-01-27T16:33:22Z",
+    "amount": 22.01,
+    "merchant_category": "utilities",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000451",
+    "card_id": "card_00656",
+    "timestamp": "2026-01-30T22:08:19Z",
+    "amount": 16.73,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000452",
+    "card_id": "card_00257",
+    "timestamp": "2026-01-21T03:08:24Z",
+    "amount": 56.74,
+    "merchant_category": "restaurant",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000453",
+    "card_id": "card_00278",
+    "timestamp": "2026-01-16T09:20:54Z",
+    "amount": 99.77,
+    "merchant_category": "fuel",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000454",
+    "card_id": "card_00877",
+    "timestamp": "2026-01-14T13:22:11Z",
+    "amount": 48.9,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000455",
+    "card_id": "card_00144",
+    "timestamp": "2026-01-09T12:15:56Z",
+    "amount": 23.23,
+    "merchant_category": "electronics",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000456",
+    "card_id": "card_00739",
+    "timestamp": "2026-01-04T21:17:07Z",
+    "amount": 13.73,
+    "merchant_category": "travel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000457",
+    "card_id": "card_00717",
+    "timestamp": "2026-01-24T12:50:00Z",
+    "amount": 50.08,
+    "merchant_category": "restaurant",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000458",
+    "card_id": "card_00340",
+    "timestamp": "2026-01-16T09:33:32Z",
+    "amount": 466.59,
+    "merchant_category": "travel",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000459",
+    "card_id": "card_00083",
+    "timestamp": "2026-01-08T15:38:40Z",
+    "amount": 910.63,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000460",
+    "card_id": "card_00508",
+    "timestamp": "2026-01-06T14:37:41Z",
+    "amount": 317.83,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000461",
+    "card_id": "card_00574",
+    "timestamp": "2026-01-08T16:07:44Z",
+    "amount": 289.56,
+    "merchant_category": "online_retail",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "txn_0000462",
+    "card_id": "card_00897",
+    "timestamp": "2026-01-05T17:02:27Z",
+    "amount": 49.82,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000463",
+    "card_id": "card_00383",
+    "timestamp": "2026-01-09T00:25:02Z",
+    "amount": 80.6,
+    "merchant_category": "fuel",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000464",
+    "card_id": "card_00731",
+    "timestamp": "2026-01-16T14:43:39Z",
+    "amount": 16.26,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000465",
+    "card_id": "card_00599",
+    "timestamp": "2026-01-09T22:56:46Z",
+    "amount": 24.46,
+    "merchant_category": "pharmacy",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000466",
+    "card_id": "card_00617",
+    "timestamp": "2026-01-18T12:32:25Z",
+    "amount": 8.67,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000467",
+    "card_id": "card_00562",
+    "timestamp": "2026-01-13T10:03:54Z",
+    "amount": 41.24,
+    "merchant_category": "electronics",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000468",
+    "card_id": "card_00742",
+    "timestamp": "2026-01-02T21:45:51Z",
+    "amount": 12.66,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000469",
+    "card_id": "card_00437",
+    "timestamp": "2026-01-29T23:38:28Z",
+    "amount": 14.65,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000470",
+    "card_id": "card_00626",
+    "timestamp": "2026-01-12T02:58:28Z",
+    "amount": 391.36,
+    "merchant_category": "entertainment",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000471",
+    "card_id": "card_00131",
+    "timestamp": "2026-01-09T15:32:39Z",
+    "amount": 22.34,
+    "merchant_category": "fuel",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000472",
+    "card_id": "card_00187",
+    "timestamp": "2026-01-05T10:15:55Z",
+    "amount": 190.3,
+    "merchant_category": "entertainment",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000473",
+    "card_id": "card_00381",
+    "timestamp": "2026-01-07T04:11:50Z",
+    "amount": 63.86,
+    "merchant_category": "electronics",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000474",
+    "card_id": "card_00655",
+    "timestamp": "2026-01-01T17:31:38Z",
+    "amount": 139.71,
+    "merchant_category": "utilities",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000475",
+    "card_id": "card_00524",
+    "timestamp": "2026-01-14T03:30:19Z",
+    "amount": 39.09,
+    "merchant_category": "restaurant",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000476",
+    "card_id": "card_00807",
+    "timestamp": "2026-01-22T23:41:49Z",
+    "amount": 117.53,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000477",
+    "card_id": "card_00018",
+    "timestamp": "2026-01-04T05:13:48Z",
+    "amount": 36.75,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000478",
+    "card_id": "card_00640",
+    "timestamp": "2026-01-12T05:07:17Z",
+    "amount": 32.89,
+    "merchant_category": "travel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000479",
+    "card_id": "card_00675",
+    "timestamp": "2026-01-22T19:45:56Z",
+    "amount": 10.83,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000480",
+    "card_id": "card_00658",
+    "timestamp": "2026-01-26T15:35:56Z",
+    "amount": 8.01,
+    "merchant_category": "restaurant",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000481",
+    "card_id": "card_00814",
+    "timestamp": "2026-01-20T09:11:37Z",
+    "amount": 21.99,
+    "merchant_category": "grocery",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000482",
+    "card_id": "card_00433",
+    "timestamp": "2026-01-25T06:25:47Z",
+    "amount": 39.65,
+    "merchant_category": "pharmacy",
+    "country": "IN",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000483",
+    "card_id": "card_00857",
+    "timestamp": "2026-01-10T19:43:42Z",
+    "amount": 29.79,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000484",
+    "card_id": "card_00216",
+    "timestamp": "2026-01-23T15:20:42Z",
+    "amount": 465.51,
+    "merchant_category": "entertainment",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000485",
+    "card_id": "card_00664",
+    "timestamp": "2026-01-14T11:21:04Z",
+    "amount": 24.36,
+    "merchant_category": "fuel",
+    "country": "US",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000486",
+    "card_id": "card_00223",
+    "timestamp": "2026-01-09T15:36:04Z",
+    "amount": 179.08,
+    "merchant_category": "atm_withdrawal",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000487",
+    "card_id": "card_00493",
+    "timestamp": "2026-01-11T23:00:33Z",
+    "amount": 1920.26,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000488",
+    "card_id": "card_00688",
+    "timestamp": "2026-01-15T07:03:18Z",
+    "amount": 197.7,
+    "merchant_category": "electronics",
+    "country": "SG",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000489",
+    "card_id": "card_00635",
+    "timestamp": "2026-01-22T06:18:55Z",
+    "amount": 112.15,
+    "merchant_category": "entertainment",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000490",
+    "card_id": "card_00749",
+    "timestamp": "2026-01-18T06:36:21Z",
+    "amount": 97.2,
+    "merchant_category": "entertainment",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000491",
+    "card_id": "card_00054",
+    "timestamp": "2026-01-24T07:08:36Z",
+    "amount": 40.48,
+    "merchant_category": "fuel",
+    "country": "IN",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000492",
+    "card_id": "card_00783",
+    "timestamp": "2026-01-11T06:21:40Z",
+    "amount": 25.45,
+    "merchant_category": "utilities",
+    "country": "SG",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000493",
+    "card_id": "card_00867",
+    "timestamp": "2026-01-27T16:16:27Z",
+    "amount": 72.05,
+    "merchant_category": "travel",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000494",
+    "card_id": "card_00371",
+    "timestamp": "2026-01-24T13:07:43Z",
+    "amount": 151.06,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000495",
+    "card_id": "card_00335",
+    "timestamp": "2026-01-19T07:18:04Z",
+    "amount": 91.29,
+    "merchant_category": "electronics",
+    "country": "GB",
+    "card_present": true,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000496",
+    "card_id": "card_00383",
+    "timestamp": "2026-01-25T13:27:01Z",
+    "amount": 45.68,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000497",
+    "card_id": "card_00556",
+    "timestamp": "2026-01-04T19:53:57Z",
+    "amount": 159.39,
+    "merchant_category": "electronics",
+    "country": "US",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000498",
+    "card_id": "card_00002",
+    "timestamp": "2026-01-05T16:35:32Z",
+    "amount": 104.85,
+    "merchant_category": "atm_withdrawal",
+    "country": "AE",
+    "card_present": false,
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "txn_0000499",
+    "card_id": "card_00310",
+    "timestamp": "2026-01-02T15:12:56Z",
+    "amount": 442.18,
+    "merchant_category": "grocery",
+    "country": "DE",
+    "card_present": true,
+    "is_fraud": false
+  }
+]
