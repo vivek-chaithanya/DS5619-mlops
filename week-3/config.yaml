@@ -1,0 +1,4 @@
+input_path: data/raw_transactions.csv
+clean_output_path: data/clean_transactions.csv
+quarantine_output_path: data/quarantined_transactions.csv
+report_output_path: data/validation_report.json

@@ -1,0 +1,77 @@
+{
+  "expectations": [
+    {
+      "expectation": "expect_column_not_null",
+      "column": "amount",
+      "n_violations": 2,
+      "violations": [
+        {
+          "row_index": 370,
+          "detail": "amount is null or empty"
+        },
+        {
+          "row_index": 534,
+          "detail": "amount is null or empty"
+        }
+      ]
+    },
+    {
+      "expectation": "expect_column_not_null",
+      "column": "card_id",
+      "n_violations": 1,
+      "violations": [
+        {
+          "row_index": 388,
+          "detail": "card_id is null or empty"
+        }
+      ]
+    },
+    {
+      "expectation": "expect_column_positive",
+      "column": "amount",
+      "n_violations": 3,
+      "violations": [
+        {
+          "row_index": 11,
+          "detail": "amount is not positive: -450.0"
+        },
+        {
+          "row_index": 370,
+          "detail": "amount is null or empty, cannot be positive"
+        },
+        {
+          "row_index": 534,
+          "detail": "amount is null or empty, cannot be positive"
+        }
+      ]
+    },
+    {
+      "expectation": "expect_column_in_set",
+      "column": "merchant_category",
+      "n_violations": 1,
+      "violations": [
+        {
+          "row_index": 140,
+          "detail": "merchant_category value 'crypto_kiosk' not in allowed set"
+        }
+      ]
+    },
+    {
+      "expectation": "expect_column_unique",
+      "column": "transaction_id",
+      "n_violations": 1,
+      "violations": [
+        {
+          "row_index": 275,
+          "detail": "transaction_id value 'txn_0000175' already seen at row 175"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_rows": 600,
+    "clean_rows": 594,
+    "quarantined_rows": 6,
+    "total_violations": 8
+  }
+}

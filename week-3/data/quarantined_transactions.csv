@@ -1,0 +1,7 @@
+transaction_id,card_id,timestamp,amount,merchant_category,country,card_present,is_fraud
+txn_0000011,card_00338,2026-02-14T05:25:57Z,-450.0,restaurant,GB,False,False
+txn_0000140,card_00843,2026-02-16T01:09:31Z,15.57,crypto_kiosk,GB,True,False
+txn_0000175,card_00527,2026-02-03T23:12:34Z,563.93,travel,GB,True,True
+txn_0000370,card_00839,2026-02-04T17:56:27Z,,fuel,IN,False,False
+txn_0000388,,2026-02-09T04:37:07Z,75.53,restaurant,DE,False,False
+txn_0000534,card_00633,2026-02-18T09:35:31Z,,grocery,SG,True,False
