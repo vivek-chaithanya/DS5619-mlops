@@ -1,0 +1,74 @@
+{
+  "feature_group": "card_activity",
+  "v1": {
+    "feature_group": {
+      "feature_group_version_id": "v1",
+      "name": "card_activity",
+      "source_raw_version_id": "v1",
+      "transform_version": "v1",
+      "schema": [
+        "avg_amount",
+        "card_id",
+        "event_time",
+        "max_amount",
+        "pct_card_present",
+        "txn_count"
+      ],
+      "row_count": 383,
+      "created_at": "2026-08-26T16:17:56.426683+00:00"
+    },
+    "raw_source": {
+      "version_id": "v1",
+      "source_path": "/Users/vivekchaithayamekarthi/Desktop/ds5619-mlops/week-4/data/v1/transactions.csv",
+      "content_hash": "3ae42e3b3de77ad2238bebc123cd1af2180872e65ee2b43813f84914bd251022",
+      "columns": [
+        "transaction_id",
+        "card_id",
+        "timestamp",
+        "amount",
+        "merchant_category",
+        "country",
+        "card_present",
+        "is_fraud"
+      ],
+      "row_count": 500,
+      "created_at": "2026-08-26T16:17:56.422156+00:00"
+    }
+  },
+  "v2": {
+    "feature_group": {
+      "feature_group_version_id": "v2",
+      "name": "card_activity",
+      "source_raw_version_id": "v2",
+      "transform_version": "v1",
+      "schema": [
+        "avg_amount",
+        "card_id",
+        "event_time",
+        "max_amount",
+        "pct_card_present",
+        "txn_count"
+      ],
+      "row_count": 115,
+      "created_at": "2026-08-26T16:17:56.428749+00:00"
+    },
+    "raw_source": {
+      "version_id": "v2",
+      "source_path": "/Users/vivekchaithayamekarthi/Desktop/ds5619-mlops/week-4/data/v2/transactions.csv",
+      "content_hash": "2e5411f82667ed59adb61d14cf200b36009a739156d1323b397882da874fc140",
+      "columns": [
+        "transaction_id",
+        "card_id",
+        "timestamp",
+        "merchant_category",
+        "card_present",
+        "is_fraud",
+        "device_fingerprint",
+        "country_code",
+        "amount_minor_units"
+      ],
+      "row_count": 125,
+      "created_at": "2026-08-26T16:17:56.427201+00:00"
+    }
+  }
+}

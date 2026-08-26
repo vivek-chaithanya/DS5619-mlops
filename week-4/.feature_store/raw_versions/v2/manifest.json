@@ -1,0 +1,18 @@
+{
+  "version_id": "v2",
+  "source_path": "/Users/vivekchaithayamekarthi/Desktop/ds5619-mlops/week-4/data/v2/transactions.csv",
+  "content_hash": "2e5411f82667ed59adb61d14cf200b36009a739156d1323b397882da874fc140",
+  "columns": [
+    "transaction_id",
+    "card_id",
+    "timestamp",
+    "merchant_category",
+    "card_present",
+    "is_fraud",
+    "device_fingerprint",
+    "country_code",
+    "amount_minor_units"
+  ],
+  "row_count": 125,
+  "created_at": "2026-08-26T16:17:56.427201+00:00"
+}

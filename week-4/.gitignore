@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# NOTE: .feature_store/ and lineage_report.json are NOT ignored — they are
+# required deliverables per ASSIGNMENT.md and are small JSON only.
