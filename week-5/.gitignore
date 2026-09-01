@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# NOTE: .model_registry/ and registry_summary.json are NOT ignored — they
+# are required deliverables per ASSIGNMENT.md and are small JSON only.
