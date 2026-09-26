@@ -1,0 +1,60 @@
+# Week 7 — fill in the TODOs below. Three jobs:
+#   lint            - flake8 over src/
+#   unit-test       - pytest tests/ (the Flask-test-client tests, no Docker needed)
+#   integration-test - build the Docker image, run it, curl it via
+#                      scripts/integration_test.sh, then tear it down.
+#
+# integration-test should only run after lint and unit-test both pass (use
+# `needs:`) — no point spending minutes building a container for code that
+# doesn't even lint or pass its unit tests.
+
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # TODO: set up Python (actions/setup-python@v5, pick a python-version)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      # TODO: run flake8 against src/
+      - name: Lint
+        run: flake8 src/
+
+  unit-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      # TODO: run the pytest suite
+      - name: Run unit tests
+        run: pytest tests/ -q
+
+  integration-test:
+    runs-on: ubuntu-latest
+    # TODO: this job should only run if both lint and unit-test succeeded —
+    # add a `needs:` key listing both job names.
+    needs: ["lint", "unit-test"]
+    steps:
+      - uses: actions/checkout@v4
+      # TODO: make the script executable and run it
+      - name: Run integration test
+        run: |
+          chmod +x scripts/integration_test.sh
+          ./scripts/integration_test.sh
