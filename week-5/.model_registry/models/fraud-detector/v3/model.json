@@ -1,0 +1,5 @@
+{
+  "type": "amount_threshold_classifier",
+  "threshold": 176.9,
+  "trained_on": "card_activity_features_v1"
+}
