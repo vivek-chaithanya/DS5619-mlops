@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# NOTE: drift_report.json is NOT ignored — it's a required deliverable per
+# ASSIGNMENT.md and is small JSON only.
