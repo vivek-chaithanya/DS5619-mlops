@@ -113,7 +113,7 @@ def run_task_with_retry(task: Task, context: dict) -> int:
                 time.sleep(task.retry_delay_seconds)
 
     # All retries exhausted, propagate the last exception
-    raise last_exception
+    raise last_exception 
 
 
 # ---------------------------------------------------------------------------
