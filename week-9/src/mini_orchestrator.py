@@ -158,6 +158,6 @@ def run_dag(tasks: Dict[str, Task], context: dict) -> dict:
                 "error": str(e),
             }
             # Stop running further tasks (Airflow behavior)
-            break
+            break 
 
     return {"order": order, "task_results": task_results}
