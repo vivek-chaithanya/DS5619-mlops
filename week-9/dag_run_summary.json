@@ -1,0 +1,26 @@
+{
+  "order": [
+    "extract",
+    "score",
+    "load",
+    "notify"
+  ],
+  "task_results": {
+    "extract": {
+      "status": "success",
+      "attempts": 1
+    },
+    "score": {
+      "status": "success",
+      "attempts": 1
+    },
+    "load": {
+      "status": "success",
+      "attempts": 1
+    },
+    "notify": {
+      "status": "success",
+      "attempts": 3
+    }
+  }
+}

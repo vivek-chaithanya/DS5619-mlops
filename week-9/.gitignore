@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# NOTE: batch_report.json and dag_run_summary.json are NOT ignored — they
+# are required deliverables per ASSIGNMENT.md and are small JSON only.
