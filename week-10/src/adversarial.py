@@ -74,7 +74,7 @@ def audit_under_attack(coco_path, fixtures_dir, eps_values=(0, 10, 20, 30, 40),
         attack_stats[eps] = fa.audit_by_category(
             coco_path, fixtures_dir, iou_threshold=iou_threshold, transform=transform
         )
-    return attack_stats
+    return attack_stats 
 
 
 # ---------------------------------------------------------------------------
