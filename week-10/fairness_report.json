@@ -1,0 +1,200 @@
+{
+  "recall_threshold": 0.9,
+  "category_stats": {
+    "Hatchback": {
+      "total": 23,
+      "detected": 23,
+      "recall": 1.0
+    },
+    "Sedan": {
+      "total": 14,
+      "detected": 14,
+      "recall": 1.0
+    },
+    "SUV": {
+      "total": 22,
+      "detected": 22,
+      "recall": 1.0
+    },
+    "MUV": {
+      "total": 15,
+      "detected": 15,
+      "recall": 1.0
+    },
+    "Bus": {
+      "total": 26,
+      "detected": 24,
+      "recall": 0.9231
+    },
+    "Truck": {
+      "total": 27,
+      "detected": 25,
+      "recall": 0.9259
+    },
+    "Three-wheeler": {
+      "total": 17,
+      "detected": 16,
+      "recall": 0.9412
+    },
+    "Two-wheeler": {
+      "total": 13,
+      "detected": 11,
+      "recall": 0.8462
+    },
+    "LCV": {
+      "total": 17,
+      "detected": 16,
+      "recall": 0.9412
+    },
+    "Mini-bus": {
+      "total": 19,
+      "detected": 19,
+      "recall": 1.0
+    },
+    "Tempo-traveller": {
+      "total": 12,
+      "detected": 11,
+      "recall": 0.9167
+    },
+    "Bicycle": {
+      "total": 18,
+      "detected": 16,
+      "recall": 0.8889
+    },
+    "Van": {
+      "total": 17,
+      "detected": 16,
+      "recall": 0.9412
+    },
+    "Other": {
+      "total": 17,
+      "detected": 15,
+      "recall": 0.8824
+    }
+  },
+  "underperforming_categories": [
+    {
+      "category": "Two-wheeler",
+      "recall": 0.8462
+    },
+    {
+      "category": "Other",
+      "recall": 0.8824
+    },
+    {
+      "category": "Bicycle",
+      "recall": 0.8889
+    }
+  ],
+  "adversarial": {
+    "eps_values": [
+      0,
+      10,
+      20,
+      30,
+      40
+    ],
+    "recall_by_eps": {
+      "0": {
+        "Hatchback": 1.0,
+        "Sedan": 1.0,
+        "SUV": 1.0,
+        "MUV": 1.0,
+        "Bus": 0.9231,
+        "Truck": 0.9259,
+        "Three-wheeler": 0.9412,
+        "Two-wheeler": 0.8462,
+        "LCV": 0.9412,
+        "Mini-bus": 1.0,
+        "Tempo-traveller": 0.9167,
+        "Bicycle": 0.8889,
+        "Van": 0.9412,
+        "Other": 0.8824
+      },
+      "10": {
+        "Hatchback": 1.0,
+        "Sedan": 0.8571,
+        "SUV": 1.0,
+        "MUV": 1.0,
+        "Bus": 0.8462,
+        "Truck": 0.8889,
+        "Three-wheeler": 0.8824,
+        "Two-wheeler": 0.7692,
+        "LCV": 0.8824,
+        "Mini-bus": 0.7895,
+        "Tempo-traveller": 0.8333,
+        "Bicycle": 0.7778,
+        "Van": 0.7647,
+        "Other": 0.7647
+      },
+      "20": {
+        "Hatchback": 0.9565,
+        "Sedan": 0.8571,
+        "SUV": 0.9091,
+        "MUV": 0.8,
+        "Bus": 0.6538,
+        "Truck": 0.7778,
+        "Three-wheeler": 0.7647,
+        "Two-wheeler": 0.7692,
+        "LCV": 0.7059,
+        "Mini-bus": 0.7368,
+        "Tempo-traveller": 0.8333,
+        "Bicycle": 0.5,
+        "Van": 0.7059,
+        "Other": 0.5882
+      },
+      "30": {
+        "Hatchback": 0.7826,
+        "Sedan": 0.7857,
+        "SUV": 0.6818,
+        "MUV": 0.6,
+        "Bus": 0.5385,
+        "Truck": 0.5926,
+        "Three-wheeler": 0.7059,
+        "Two-wheeler": 0.4615,
+        "LCV": 0.5882,
+        "Mini-bus": 0.6842,
+        "Tempo-traveller": 0.8333,
+        "Bicycle": 0.3333,
+        "Van": 0.4706,
+        "Other": 0.5294
+      },
+      "40": {
+        "Hatchback": 0.6087,
+        "Sedan": 0.7143,
+        "SUV": 0.4091,
+        "MUV": 0.5333,
+        "Bus": 0.4615,
+        "Truck": 0.4815,
+        "Three-wheeler": 0.5882,
+        "Two-wheeler": 0.1538,
+        "LCV": 0.4118,
+        "Mini-bus": 0.5789,
+        "Tempo-traveller": 0.6667,
+        "Bicycle": 0.1667,
+        "Van": 0.2941,
+        "Other": 0.4118
+      }
+    },
+    "report_eps": 20,
+    "most_fragile": [
+      {
+        "category": "Bicycle",
+        "recall_drop": 0.3889
+      },
+      {
+        "category": "Other",
+        "recall_drop": 0.2942
+      },
+      {
+        "category": "Bus",
+        "recall_drop": 0.2693
+      }
+    ],
+    "lowest_recall_under_attack": [
+      "Bicycle",
+      "Other",
+      "Bus"
+    ]
+  }
+}
