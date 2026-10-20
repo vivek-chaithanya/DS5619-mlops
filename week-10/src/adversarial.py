@@ -52,7 +52,7 @@ def perturb_image(img, eps):
     r_pert = r.point(lambda v: max(0, v - eps))
     g_pert = g.point(lambda v: min(255, v + eps))
     b_pert = b.point(lambda v: min(255, v + eps))
-    return Image.merge("RGB", (r_pert, g_pert, b_pert))
+    return Image.merge("RGB", (r_pert, g_pert, b_pert)) 
 
 
 # ---------------------------------------------------------------------------
