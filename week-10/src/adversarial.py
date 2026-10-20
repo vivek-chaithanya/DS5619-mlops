@@ -102,4 +102,4 @@ def find_most_fragile(attack_stats, eps, top_k=3):
             drop = round(clean["recall"] - pert_stats[cat_name]["recall"], 4)
             drops.append((cat_name, drop))
     drops.sort(key=lambda x: (-x[1], x[0]))
-    return drops[:top_k]
+    return drops[:top_k] 
