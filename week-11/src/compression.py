@@ -188,4 +188,4 @@ def benchmark_model(label, weights, eval_examples, dtype_bytes, n_latency_reps=5
         "size_bytes": size_bytes,
         "accuracy": accuracy,
         "latency_ms_per_pass": latency_ms_per_pass,
-    }
+    } 
