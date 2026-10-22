@@ -137,7 +137,7 @@ def quantize_int8(weights):
         q_clamped = max(-127, min(127, int(q)))
         quantized_weights.append(q_clamped)
 
-    return (quantized_weights, scale)
+    return (quantized_weights, scale) 
 
 
 # ---------------------------------------------------------------------------
