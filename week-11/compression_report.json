@@ -28,7 +28,7 @@
       "label": "quantized_int8",
       "size_bytes": 256,
       "accuracy": 0.9967,
-      "latency_ms_per_pass": 2.7604,
+      "latency_ms_per_pass": 2.7604, 
       "compression_ratio_vs_baseline": 4.0
     }
   ]

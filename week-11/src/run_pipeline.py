@@ -76,7 +76,7 @@ def main():
 
     out_path = os.path.join(REPO_ROOT, "compression_report.json")
     with open(out_path, "w") as f:
-        json.dump(report, f, indent=2)
+        json.dump(report, f, indent=2) 
 
     print(f"{'label':22s} {'size_bytes':>10s} {'ratio':>7s} {'accuracy':>9s} {'latency_ms':>11s}")
     for r in results:
