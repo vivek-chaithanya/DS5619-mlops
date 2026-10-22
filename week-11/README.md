@@ -63,4 +63,4 @@ Running the pipeline (`python src/run_pipeline.py`) benchmarked the four variant
 3. **The 0.95 Sparsity Cliff:**
    - The weights have 40 informative weights ($|w| \ge 0.50$) and 216 noise weights ($|w| \le 0.03$).
    - At 70% sparsity, 179 weights are pruned. Since $179 < 216$, only noise weights are zeroed, keeping accuracy at 99.67%.
-   - At 95% sparsity, 243 weights are pruned. This exhausts all 216 noise weights and cuts into the signal, wiping out 27 informative weights. With only 13 informative weights left, accuracy drops off a cliff to **79.33%**.
+   - At 95% sparsity, 243 weights are pruned. This exhausts all 216 noise weights and cuts into the signal, wiping out 27 informative weights. With only 13 informative weights left, accuracy drops off a cliff to **79.33%**. 
