@@ -44,7 +44,7 @@ def model_size_bytes(weights, dtype_bytes):
     stored using `dtype_bytes` bytes each (4 for FP32, 2 for FP16, 1 for
     INT8 — this week's "bits per parameter" framing, applied literally).
     """
-    return len(weights) * dtype_bytes
+    return len(weights) * dtype_bytes 
 
 
 # ---------------------------------------------------------------------------
@@ -75,7 +75,7 @@ def prune_weights(weights, sparsity):
     sorted_indices = sorted(range(n_weights), key=lambda i: abs(weights[i]))
     prune_set = set(sorted_indices[:n_prune])
 
-    return [0.0 if i in prune_set else weights[i] for i in range(n_weights)]
+    return [0.0 if i in prune_set else weights[i] for i in range(n_weights)] 
 
 
 # ---------------------------------------------------------------------------
