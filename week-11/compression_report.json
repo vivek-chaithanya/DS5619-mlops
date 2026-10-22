@@ -1,0 +1,35 @@
+{
+  "prune_sparsity": 0.7,
+  "n_weights": 256,
+  "n_nonzero_after_pruning": 77,
+  "results": [
+    {
+      "label": "baseline_fp32",
+      "size_bytes": 1024,
+      "accuracy": 1.0,
+      "latency_ms_per_pass": 2.7722,
+      "compression_ratio_vs_baseline": 1.0
+    },
+    {
+      "label": "pruned_dense_fp32",
+      "size_bytes": 1024,
+      "accuracy": 0.9967,
+      "latency_ms_per_pass": 2.9295,
+      "compression_ratio_vs_baseline": 1.0
+    },
+    {
+      "label": "pruned_sparse_coo",
+      "size_bytes": 616,
+      "accuracy": 0.9967,
+      "latency_ms_per_pass": 2.9295,
+      "compression_ratio_vs_baseline": 1.66
+    },
+    {
+      "label": "quantized_int8",
+      "size_bytes": 256,
+      "accuracy": 0.9967,
+      "latency_ms_per_pass": 2.7604,
+      "compression_ratio_vs_baseline": 4.0
+    }
+  ]
+}
